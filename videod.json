@@ -3,7 +3,7 @@
   "_nativeBanner comment": "0: OffAds & 1: Native_Banner & 2: Banner",
   "ads": [
     {
-      "app_showAds": "0",
+      "app_showAds": "1",
       "vpnscreen": "0",
       "app_dialogBeforeAdShow": "0",
       "app_showAdAppVersion": "1",
@@ -31,11 +31,11 @@
       "vpnCity": "",
       
        "AppID": "ca-app-pub-3206456546664189~2974932913",
-      "Banner": "ca-app-pub-7815548535055828/1909353511",
-      "Interstitial": "ca-app-pub-7815548535055828/7178772314",
-      "Native": "ca-app-pub-7815548535055828/1582830708",
+      "Banner": "ca-app-pub-4643013228253050/4188067885",
+      "Interstitial": "ca-app-pub-4643013228253050/7970049155",
+      "Native": "ca-app-pub-4643013228253050/9165062393",
       "RewardedVideo": "ca-app-pub-3940256099942544/5354046379",
-      "AppOpen": "ca-app-pub-7815548535055828/9269749036"
+      "AppOpen": "ca-app-pub-4643013228253050/7851980726"
       
     }
   ],
