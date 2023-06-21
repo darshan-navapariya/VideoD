@@ -29,13 +29,13 @@
       "vpnFixstate": "",
       "vpnLocationLink": "https://pro.ip-api.com/json?key=GnPb9UWPFd0kcmg",
       "vpnCity": "",
-      
-       "AppID": "ca-app-pub-3206456546664189~2974932913",
-      "Banner": "/22475853447,22892271357/Aaradhya_com.video.player.mp4KHDplayer_Banner",
-      "Interstitial": "/22475853447,22892271357/Aaradhya_com.video.player.mp4KHDplayer_Interstitial",
-      "Native": "/22475853447,22892271357/Aaradhya_com.video.player.mp4KHDplayer_Native",
+
+      "AppID": "ca-app-pub-3206456546664189~2974932913",
+      "Banner": "ca-app-pub-3940256099942544/6300978111",
+      "Interstitial": "ca-app-pub-3940256099942544/8691691433",
+      "Native": "ca-app-pub-3940256099942544/2247696110",
       "RewardedVideo": "ca-app-pub-3940256099942544/5354046379",
-      "AppOpen": "/22475853447,22892271357/Aaradhya_com.video.player.mp4KHDplayer_AppOpen"
+      "AppOpen": "ca-app-pub-3940256099942544/3419835294"
       
     }
   ],
